@@ -23,17 +23,17 @@ function setup() {
 
   rectMode(CENTER);
   fill("black");
-  rect(520, 510, 200, 950);
+  rect(520, 510, 200, 940);
   stroke("black");
   fill("white");
   strokeWeight(5);
-  rect(width / 2, 490, 200, 950);
+  rect(width / 2, 490, 200, 940);
   line(400, 50, 600, 50);
 
   fill("#BD1D1D");
-  ellipse(420, 33, 18, 18);
+  ellipse(415, 35, 16, 16);
   fill("#FFCC00");
-  ellipse(450, 33, 18, 18);
+  ellipse(440, 35, 16, 16);
 
   translate(width / 2, height / 2);
   scale(0.9);
