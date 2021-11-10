@@ -1,0 +1,5 @@
+# Ignore examples
+/example
+
+# Ignore all text files
+*.txt
