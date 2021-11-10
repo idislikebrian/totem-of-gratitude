@@ -1,5 +1,5 @@
 # Ignore examples
-/example
+example
 
 # Ignore all text files
 *.txt
